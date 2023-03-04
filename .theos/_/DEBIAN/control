@@ -1,0 +1,10 @@
+Package: com.mtac.debugoverlay
+Name: DebugOverlay
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: MTAC
+Author: MTAC
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Version: 0.0.1-1+debug
+Installed-Size: 176
